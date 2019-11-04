@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="dtd-overview">
+    <title>DTD Overview</title>
+    <shortdesc>A DTD is a Document Type Definition. A DTD defines the 
+        structure and the legal elements and attributes of an XML document.</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

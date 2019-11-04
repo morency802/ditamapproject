@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="popular-markup-languages">
+    <title>Different Markup Languages</title>
+    <shortdesc>Following is a list of some of the most popular markup languages.</shortdesc>
+    <refbody>
+    <section>
+        <title></title>
+        <p><ul>
+            <li>HTML – Hypertext Markup Language, defined as a part of implementing World Wide Web</li>
+            <li>KML – Keyhole Markup Language, XML-based markup language used for exchanging geographic information</li>
+            <li>MathML – Mathematical Markup Language</li>
+            <li>SGML – Standard Generalized Markup Language</li>
+            <li>XHTML – extensible Hypertext Markup Language, HTML reformulated in XML syntax</li>
+            <li>XML – extensible Markup Language, defines a set of rules for encoding documents in both human-readable and machine-readable format</li>
+            <li>X3D – extensible 3D</li>
+            <li>Markdown – plaintext markup popular as language of blog/cms posts and comments</li>
+            <li>LaTEX – a format for describing complex type and page layout often used for mathematics, technical, and academic publications</li>
+            <li>Wiki Markup – used in Wikipedia, MediaWiki and other Wiki installations</li>
+        </ul></p>
+    </section>
+    </refbody>
+</reference>

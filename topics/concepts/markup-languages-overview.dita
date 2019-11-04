@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="markup-languages-overview">
+    <title>Markup Languages Overview</title>
+    <shortdesc>Markup languages are computer languages that use tags to 
+        define elements within a document. They are designed for the processing, 
+        definition and presentation of text. Most widely used markup languages include
+        HTML, XML and XHTML.</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

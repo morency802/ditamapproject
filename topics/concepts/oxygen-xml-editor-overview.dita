@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Untitled">
+    <title>Oxygen XML Editor Overview</title>
+    <shortdesc>The Oxygen XML Editor is a multi-platform XML editor, XSLT/XQuery 
+        debugger and profiler with Unicode support. Oxygen can be used in conjunction 
+        with all XML-based technologies and it includes a large variety of tools for 
+        creating, editing, and publishing XML documents.</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

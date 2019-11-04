@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="xml-markup-language">
+    <title>XML Overview</title>
+    <shortdesc>Extensible Markup Language (XML) is used to describe data. The XML 
+        standard is a flexible way to create information formats and electronically 
+        share structured data via the public Internet, as well as via corporate networks.</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>

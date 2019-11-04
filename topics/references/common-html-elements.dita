@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Untitled">
+    <title>Common HTML Elements</title>
+    <shortdesc>An HTML element usually consists of a start tag and an end tag, with 
+        the content inserted in between. Following is a list of some common HTML elements. </shortdesc>
+    <refbody> </refbody>
+</reference>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="schema-language-overview">
+    <title>Schema Languages Overview</title>
+    <shortdesc>An XML Schema is a language for expressing constraints about XML documents. There 
+        are several different schema languages in widespread use, but the main ones are 
+        Document Type Definitions (DTDs), Relax-NG, Schematron and W3C XSD (XML Schema Definitions).</shortdesc>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>
