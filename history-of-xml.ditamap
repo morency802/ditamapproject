@@ -10,17 +10,11 @@
             </topicref>
         </topicref>
     </topicref>
+        <topicref href="topics/concepts/schema-language-overview.dita">
+            <topicref href="topics/concepts/dtd-overview.dita"/>
+        </topicref> 
     </topicref>
-      
-            <topicref href="topics/concepts/schema-language-overview.dita">
-                <topicref href="topics/concepts/dtd-overview.dita"/>
-            </topicref>
-            
-            <topicref href="topics/concepts/oxygen-xml-editor-overview.dita">
-                <topicref href="topics/tasks/creating-schema-languages-in-oxygen.dita"/>
-            </topicref>
-      
-    
-    
-    
+    <topicref href="topics/concepts/oxygen-xml-editor-overview.dita">
+        <topicref href="topics/tasks/creating-schema-languages-in-oxygen.dita"/>
+    </topicref>
 </map>
